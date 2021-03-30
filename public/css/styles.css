@@ -1,0 +1,132 @@
+body {
+  padding-top: 56px;
+  font-family: Comfortaa;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	width:100%;
+}
+
+.modal-body {
+	position: fixed;
+	overflow: hidding;
+}
+
+.bg {
+	background-color: #ffba78;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+  .nav {
+	  color: white;
+  }
+  .but {
+	  background-color: #492401;
+	  border-color: #492401;
+  }
+  
+ header {
+	  height: 80px;
+  }
+  
+  .footer {
+	  background-color: #492401;
+  }
+  
+ a {
+	 color: #ffba78;
+ }
+ 
+  a:hover {
+	 color: #ffba78;
+ }
+ 
+ .nav-item {
+	 margin-left:8px;
+	 margin-right:8px;
+ }
+ 
+ .nav-link {
+	 font-style: bold;
+	 color: #492401 !important;
+ }
+ 
+ .maintext {
+	background-color: #ffffff;
+	border-radius: 10px;
+	margin-left: 45px;
+ }
+ 
+ .form-control-file {
+	 margin-left: 27px;
+	 margin-right: -27px;
+ }
+ 
+.card-header {
+	background-color: #ffba78;
+}
+
+.button_dark {
+	background-color: #492401;
+	color: #ffffff;
+}
+
+.table_photos {
+	background-color: #ffba78;
+}
+
+.button_delete {
+	background-color: #ffba78;
+}
+
+.button_dark:hover {
+    color: #ffba78;
+}
+
+table {
+	margin-top: 45px;
+}
+
+.button-edit {
+	background-color: #ffba78;
+	text-align: right;
+}
+
+.col-md-4 {
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.pictureone {
+	border: solid 9px;
+	border-color: #ffba78;
+}
+
+.courses {
+	margin-left: 45px;
+	margin-top: 65px;
+}
+
+.footer_menu {
+	color: #ffffff;
+}
+
+.footer_menu:hoover a{
+	color: #ffba78 !important;
+
+}
+	
+.button-courses {
+	color: #ffffff !important;
+	background-color: #492401;
+}
+
+.btn:hoover {
+	background-color: #ffba78 !important;
+}
+
+.picturedetails {
+	border: solid 9px;
+	border-color: #ffba78;
+	width: 600px;
+}
